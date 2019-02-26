@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CFA7743C-26C8-4BCB-8339-5DEF4C644F1B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimateXML_02/MainActivity.cs">
+    <Files>
+      <File FileName="AnimateXML_02/MainActivity.cs" Line="8" Column="84" />
+      <File FileName="AnimateXML_02/Resources/values/styles.xml" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimateXML_02" expanded="True">
+            <Node name="AnimateXML_02" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AnimateXML__02 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" HideGettingStarted="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

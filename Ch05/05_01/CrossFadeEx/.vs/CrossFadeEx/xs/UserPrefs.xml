@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6DB68C03-7CC1-489F-BA2A-6682B129BBB1}|Default">
+  <MonoDevelop.Ide.ItemProperties.CrossFadeEx AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrossFadeEx/AboutActivity.cs">
+    <Files>
+      <File FileName="CrossFadeEx/MainActivity.cs" Line="34" Column="1" />
+      <File FileName="CrossFadeEx/Models/Product.cs" Line="8" Column="28" />
+      <File FileName="CrossFadeEx/ProductListAdapter.cs" Line="18" Column="70" />
+      <File FileName="CrossFadeEx/AboutActivity.cs" Line="18" Column="62" />
+      <File FileName="CrossFadeEx/DataProviders/DataProvider.cs" Line="67" Column="115" />
+      <File FileName="CrossFadeEx/DetailActivity.cs" Line="7" Column="1" />
+      <File FileName="CrossFadeEx/Resources/values/styles.xml" Line="13" Column="54" />
+      <File FileName="CrossFadeEx/Properties/AndroidManifest.xml" Line="6" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrossFadeEx" expanded="True">
+            <Node name="CrossFadeEx" expanded="True">
+              <Node name="DataProviders" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="AboutActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

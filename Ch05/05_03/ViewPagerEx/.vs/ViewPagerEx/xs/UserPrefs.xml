@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8D8E0BB0-DF4C-49F2-A48F-BDE5E0790166}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewPagerEx/Transformers/ZoomPageTransformer.cs">
+    <Files>
+      <File FileName="ViewPagerEx/MainActivity.cs" Line="29" Column="52" />
+      <File FileName="ViewPagerEx/Transformers/DepthPageTransformer.cs" Line="23" Column="42" />
+      <File FileName="ViewPagerEx/Transformers/ZoomPageTransformer.cs" Line="23" Column="41" />
+      <File FileName="ViewPagerEx/ItemFragment.cs" Line="6" Column="1" />
+      <File FileName="../../../../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="2234" Column="3" />
+      <File FileName="ViewPagerEx/Properties/AndroidManifest.xml" Line="6" Column="12" />
+      <File FileName="Source Not Available" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ViewPagerEx" expanded="True">
+            <Node name="ViewPagerEx" expanded="True">
+              <Node name="DataProviders" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Transformers" expanded="True">
+                <Node name="ZoomPageTransformer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ViewPagerEx PreferredExecutionTarget="Android.ce0517150d9aac3503" HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

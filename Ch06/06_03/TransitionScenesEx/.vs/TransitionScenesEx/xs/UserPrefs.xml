@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0BAFF7A6-BC33-4D46-8B0A-4136BF408EC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TransitionScenesEx/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="TransitionScenesEx/MainActivity.cs" Line="17" Column="1" />
+      <File FileName="TransitionScenesEx/Resources/menu/main_menu.xml" Line="4" Column="10" />
+      <File FileName="TransitionScenesEx/Resources/values/styles.xml" Line="12" Column="1" />
+      <File FileName="TransitionScenesEx/Properties/AndroidManifest.xml" Line="4" Column="103" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TransitionScenesEx" expanded="True">
+            <Node name="TransitionScenesEx" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="menu" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TransitionScenesEx AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

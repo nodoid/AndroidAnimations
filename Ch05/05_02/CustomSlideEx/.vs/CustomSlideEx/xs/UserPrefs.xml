@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{AED7789E-5C49-456B-A8E4-E01A47A3F609}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomSlideEx AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomSlideEx/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="CustomSlideEx/MainActivity.cs" Line="29" Column="1" />
+      <File FileName="CustomSlideEx/AboutActivity.cs" Line="13" Column="10" />
+      <File FileName="CustomSlideEx/DetailActivity.cs" Line="16" Column="24" />
+      <File FileName="CustomSlideEx/ProductListAdapter.cs" Line="2" Column="34" />
+      <File FileName="CustomSlideEx/Resources/values-v21/styles.xml" Line="9" Column="13" />
+      <File FileName="CustomSlideEx/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="CustomSlideEx/Properties/AndroidManifest.xml" Line="6" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomSlideEx" expanded="True">
+            <Node name="CustomSlideEx" expanded="True" selected="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="mipmap-hdpi" expanded="True" />
+                <Node name="mipmap-xxxhdpi" expanded="True" />
+                <Node name="values-v21" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6030BBC5-80F8-45D9-B116-EFA9A0DA062F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValueAnimator/MainActivity.cs">
+    <Files>
+      <File FileName="ValueAnimator/MainActivity.cs" Line="19" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ValueAnimator" expanded="True">
+            <Node name="ValueAnimation" expanded="True" selected="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ValueAnimation AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" HideGettingStarted="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

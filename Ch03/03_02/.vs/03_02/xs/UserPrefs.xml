@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{44A04F53-F539-4AF7-ACB1-50AFACFD7A2A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="03_01/MainActivity.cs" Line="16" Column="50" />
+      <File FileName="03_01/Resources/values/styles.xml" Line="6" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03_02" expanded="True">
+            <Node name="AnimateFrames" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="Main.axml" selected="True" />
+                </Node>
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AnimateFrames AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" HideGettingStarted="True" />
+</Properties>

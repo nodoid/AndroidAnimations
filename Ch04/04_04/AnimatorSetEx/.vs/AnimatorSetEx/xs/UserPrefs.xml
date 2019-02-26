@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{536B50A3-DED5-42AB-8C39-DE716DCE97C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimatorSetEx/MainActivity.cs">
+    <Files>
+      <File FileName="AnimatorSetEx/MainActivity.cs" Line="28" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimatorSetEx" expanded="True">
+            <Node name="AnimatorSetEx" expanded="True">
+              <Node name="Packages" selected="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AnimatorSetEx AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DF330F87-8042-49CB-9590-DF6E932DC329}|Default">
+  <MonoDevelop.Ide.ItemProperties.ObjectAnimatorEx AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectAnimatorEx/MainActivity.cs">
+    <Files>
+      <File FileName="ObjectAnimatorEx/MainActivity.cs" Line="12" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectAnimatorEx" expanded="True">
+            <Node name="ObjectAnimatorEx" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

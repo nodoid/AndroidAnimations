@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{98618ED3-5EFE-4241-9D40-743A241A0DCA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardFlipEx/DetailActivity.cs">
+    <Files>
+      <File FileName="CardFlipEx/MainActivity.cs" Line="30" Column="1" />
+      <File FileName="CardFlipEx/ProductListAdapter.cs" Line="5" Column="24" />
+      <File FileName="CardFlipEx/Models/Product.cs" Line="1" Column="21" />
+      <File FileName="CardFlipEx/DataProviders/DataProvider.cs" Line="3" Column="25" />
+      <File FileName="CardFlipEx/ItemListFragment.cs" Line="4" Column="21" />
+      <File FileName="CardFlipEx/Interfaces/IListEventHandler.cs" Line="6" Column="44" />
+      <File FileName="CardFlipEx/DetailActivity.cs" Line="36" Column="55" />
+      <File FileName="CardFlipEx/AboutFragment.cs" Line="8" Column="38" />
+      <File FileName="CardFlipEx/Resources/values/strings.xml" Line="13" Column="13" />
+      <File FileName="CardFlipEx/Properties/AndroidManifest.xml" Line="6" Column="12" />
+      <File FileName="CardFlipEx/Resources/values/styles.xml" Line="17" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CardFlipEx" expanded="True">
+            <Node name="CardFlipEx" expanded="True">
+              <Node name="DataProviders" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="DetailActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CardFlipEx AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" HideGettingStarted="True" />
+</Properties>

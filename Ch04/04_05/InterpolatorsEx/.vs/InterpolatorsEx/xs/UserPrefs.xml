@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{067BBB0A-9D06-46E1-B3FE-C0CBAA58FB5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterpolatorsEx/MainActivity.cs">
+    <Files>
+      <File FileName="InterpolatorsEx/MainActivity.cs" Line="15" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterpolatorsEx" expanded="True">
+            <Node name="InterpolatorsEx" expanded="True">
+              <Node name="Packages" selected="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InterpolatorsEx AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

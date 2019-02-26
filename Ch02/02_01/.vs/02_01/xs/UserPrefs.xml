@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0A88D6BD-5BA3-464C-84E5-9C2D65B5C6CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_01/MainActivity.cs">
+    <Files>
+      <File FileName="02_01/MainActivity.cs" Line="12" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02_01" expanded="True">
+            <Node name="02_01" expanded="True" selected="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02__01 AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce0517150d9aac3503" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
